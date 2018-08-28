@@ -1,0 +1,41 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CallbackFunction	KEYWORD1
+chipId				KEYWORD1
+IPAddress			KEYWORD1
+WiFiUDP				KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Switch					KEYWORD2
+serverLoop				KEYWORD2
+startWebServer			KEYWORD2
+handleEventservice		KEYWORD2
+handleUpnpControl		KEYWORD2
+handleRoot				KEYWORD2
+handleSetupXml			KEYWORD2
+getAlexaInvokeName		KEYWORD2
+respondToSearch			KEYWORD2
+UpnpBroadcastResponder	KEYWORD2
+beginUdpMulticast		KEYWORD2
+serverLoop				KEYWORD2
+addDevice				KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
